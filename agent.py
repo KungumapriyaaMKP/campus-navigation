@@ -10,8 +10,8 @@ from deepgram import DeepgramClient
 # IMPORTANT: Replace these placeholder API Keys with your actual keys.
 # You can find these on your respective Lyzr, Deepgram, and ElevenLabs dashboards.
 LYZR_API_KEY = "sk-default-UVwrao9HeTWXAk5gb3d0cf1VWSZ304Bv"  # Your Lyzr API Key
-DEEPGRAM_API_KEY = "7f45437a1cdd0a8d860d1e04f78a3639f77d1"  # Your Deepgram API Key
-ELEVENLABS_API_KEY = "sk_0fa00a8b899e41cfb471bd1a912982fe68208934c1b26de1"
+DEEPGRAM_API_KEY = "6d936e31937bed220d13f8a054246f2df5faefed"  # Your Deepgram API Key
+ELEVENLABS_API_KEY = "sk_8f5482590cd5c2861397ea7932b19ebe23c106f87a241385"
 
 
 # Set ElevenLabs API key as an environment variable, which the 'generate' function uses.
